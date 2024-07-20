@@ -6,7 +6,8 @@
     border: none;
     outline: none;
     scroll-behavior: smooth;
-    font-family: "Poppins", cursive;
+    /* font-family: "Poppins", cursive; */
+    font-family: "Poppins";
   }
   html {
     font-size: 60%;
@@ -127,7 +128,7 @@ section{
   margin-top: 1.0 rem 0;
 }
 .home-content p{
-  font-size:1.5rem;
+  font-size:2rem;
   font-weight: 500;
   line-height: 1.8;
   
@@ -208,9 +209,9 @@ section{
   text-align: left;
 }
 .about-content p{
-  font-size: 6.8 rem;
+  font-size: 6.9 rem;
 }
-.about-content h3{
+.about-content h2{
   font-size: 6.9 rem;
 }
 .about-content btn{
@@ -234,7 +235,7 @@ section{
 }
 
 .service-box h1{
-  font-size:4 rem;
+  font-size:5 rem;
   margin: 2 rem;
   font-weight: 800;
   color: #206e23;
